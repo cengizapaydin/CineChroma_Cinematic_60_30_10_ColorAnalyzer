@@ -1,0 +1,1 @@
+# CineChroma — Cinematic 60/30/10 Color Analyzer

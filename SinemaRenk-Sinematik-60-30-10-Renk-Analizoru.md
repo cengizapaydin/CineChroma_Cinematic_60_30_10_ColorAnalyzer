@@ -1,0 +1,1 @@
+# SinemaRenk — Sinematik 60/30/10 Renk Analizörü
