@@ -65,4 +65,4 @@ Sánchez-Sánchez, C., ve ark. (2020). Dominant color extraction with K-means fo
 
 ## Yazılım Atfı
 
-Apaydın, C. (2026). *Sinematik renk analizi kmeans* [Bilgisayar yazılımı]. GitHub. https://zenodo.org/records/22102633
+Apaydın, C. (2026). SinemaRenk: Sinematik 60/30/10 Renk Analizörü [Bilgisayar yazılımı]. Zenodo. https://doi.org/10.5281/zenodo.22310061
