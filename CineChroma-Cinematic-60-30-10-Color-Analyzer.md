@@ -65,4 +65,4 @@ Sánchez-Sánchez, C., et al. (2020). Dominant color extraction with K-means for
 
 ## Software Citation
 
-Apaydın, C. (2026). *Cinematic color analysis kmeans* [Computer software]. GitHub. https://zenodo.org/records/22102633
+Apaydın, C. (2026). CineChroma: Cinematic 60/30/10 Color Analyzer [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22310061
