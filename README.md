@@ -50,8 +50,8 @@ Yazılım şunları yapar:
 
 |Türkçe Arayüz|English Interface|
 |-|-|
-|!\[Ekran 1 - TR](<img width="940" height="451" alt="Ekran1TR" src="https://github.com/user-attachments/assets/2ac15a3f-f391-4c60-b942-e2ed5d13b847" />)|!\[Screen 1 - EN](<img width="941" height="451" alt="Ekran1EN" src="https://github.com/user-attachments/assets/9adc606f-0b20-4168-a379-7d153fdca73f" />)|
-|!\[Ekran 2 - TR](<img width="940" height="433" alt="Ekran2TR" src="https://github.com/user-attachments/assets/594f4b3f-6cc8-4270-a120-1732c4c0a21d" />)|!\[Screen 2 - EN](<img width="941" height="452" alt="Ekran2EN" src="https://github.com/user-attachments/assets/70db5850-3085-443c-8d12-42b014082a59" />)|
+|<img width="940" height="451" alt="Ekran1TR" src="https://github.com/user-attachments/assets/2ac15a3f-f391-4c60-b942-e2ed5d13b847" />|<img width="941" height="451" alt="Ekran1EN" src="https://github.com/user-attachments/assets/9adc606f-0b20-4168-a379-7d153fdca73f" />|
+|<img width="940" height="433" alt="Ekran2TR" src="https://github.com/user-attachments/assets/594f4b3f-6cc8-4270-a120-1732c4c0a21d" />|<img width="941" height="452" alt="Ekran2EN" src="https://github.com/user-attachments/assets/70db5850-3085-443c-8d12-42b014082a59" />|
 
 > Not: Görsellerin bu README'de doğru görüntülenmesi için depoya `Ekran1TR.jpg`, `Ekran2TR.jpg`, `Ekran1EN.jpg`, `Ekran2EN.jpg` dosyalarının da yüklenmiş olması gerekir.
 
